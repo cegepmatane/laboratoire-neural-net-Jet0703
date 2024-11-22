@@ -10,15 +10,9 @@ Votre colab public : https://colab.research.google.com/drive/1XKYPnUlNYeQNOomAGO
 
 **Dessin de blocs**
 
-Votre dessin en format PNG (on doit le voir dans le README) :  
+Votre dessin en format PNG (on doit le voir dans le README) :  couches_convolutives.drawio.png
 
-Source du dessin (format xml ou autre) :  
+Source du dessin (format xml ou autre) :  couches_convolutives.drawio
 
-Le dessin doit clarifier et illustrer :   
-- La couche d'entrée (format des données en entrée)  
-- Chaque couche convolutive (sa taille)  
-  -  Le nombre de kernels de convolution et leurs tailles respectives (visuellement)  
-  -  La fonction d'activation (Relu ou autre)  
-  -  La couche de pooling (et laquelle)  
-- La couche de sortie (classes de sortie)  
+![couches_convolutives](couches_convolutives.drawio.png)
 
